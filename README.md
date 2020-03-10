@@ -30,6 +30,7 @@ by the performance and technologies that make implementation easier.
 
 ## How to Run
 **Considering that the api server is runnning**
+***Create .env file and put all the global variables values
 
 - Clone the project
 
