@@ -10,23 +10,23 @@ by the performance and technologies that make implementation easier.
 
 ### Used Techs
 
-- **[Axios](https://www.npmjs.com/package/axios "axios")**
+- **[Axios](https://www.npmjs.com/package/axios "axios")** -> Used to do requests to API
 
-- **[React router dom](https://www.npmjs.com/package/react-router-dom)**
+- **[React router dom](https://www.npmjs.com/package/react-router-dom)** -> Responsable to do all the navigation
 
-- **[Styled Components](https://styled-components.com)**
+- **[Styled Components](https://styled-components.com)** -> Used to style components from react.
 
-- **[Date FNS](https://date-fns.org)**
+- **[Date FNS](https://date-fns.org)** -> Used to convert date.
 
-- **[History](https://www.npmjs.com/package/react-history)**
+- **[History](https://www.npmjs.com/package/react-history)** -> Used to manage session history.
 
-- **[EsLint](https://www.npmjs.com/package/eslint)**
+- **[EsLint](https://www.npmjs.com/package/eslint)** -> Used to make the code clean and standardized.
 
-- **[RocketSeat Unform](https://www.npmjs.com/package/@rocketseat/unform)**
+- **[RocketSeat Unform](https://www.npmjs.com/package/@rocketseat/unform)** -> Used to make form submit (search).
 
-- **[Prop Types](https://www.npmjs.com/package/prop-types)**
+- **[Prop Types](https://www.npmjs.com/package/prop-types)** -> Used to document the intended types.
 
-- **[Query String](https://www.npmjs.com/package/query-string)**
+- **[Query String](https://www.npmjs.com/package/query-string)** -> Convert query strings
 
 ## How to Run
 **Considering that the api server is runnning**
@@ -50,3 +50,6 @@ yarn start
 │   ├── /services/      # The services need to run the app, such as the api configuration and the history app
 │   ├── /styles/        # Contain all global style from app
 ```
+
+## Considerations
+The next step is make tests, error handling and add some new features to make the user experience better.
